@@ -1,0 +1,54 @@
+header {
+        background: blue;
+        text-shadow: 1px 1px 1px yellow;
+        text-align: center;
+        padding: 10px;
+        font-size: 20px;
+        font-family: sans-serif;
+        border-radius: 2mm;
+}
+
+nav {
+        background-color: rgb(61, 165, 61);
+        padding: 5px;
+        border-radius: 2mm;
+        font-family: sans-serif;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 20px;
+    font-size: 20px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+article {
+    width: 80%;
+    min-height: 800px;
+}
+footer {
+    background: rgb(134, 134, 175);
+}
+
+}
+
+body {
+    margin: 0px;
+     
+}
+h1{
+    font-family: sans-serif;
+}
+h2 {
+    font-family: sans-serif;
+}
+form {
+    font-family: sans-serif;
+}
+footer{
+    font-family: sans-serif;
+}
